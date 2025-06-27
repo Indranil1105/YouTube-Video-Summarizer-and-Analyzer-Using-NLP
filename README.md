@@ -28,7 +28,8 @@ This project is a Jupyter Notebook (`main.ipynb`) powered by **Streamlit**, allo
 ### 1. Clone or Download the Repository
 
 git clone [https://github.com/Indranil1105/YouTube-Video-Summarizer-and-Analyzer-Using-NLP.git](https://github.com/Indranil1105/YouTube-Video-Summarizer-and-Analyzer-Using-NLP.git)
-cd your-repo-name
+
+cd YouTube-Video-Summarizer-and-Analyzer-Using-NLP
 
 ### 2. Install Dependencies
 Create a virtual environment (optional but recommended), then install the packages listed in requirements.txt:
