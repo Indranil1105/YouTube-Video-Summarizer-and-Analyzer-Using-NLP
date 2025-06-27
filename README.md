@@ -27,7 +27,7 @@ This project is a Jupyter Notebook (`main.ipynb`) powered by **Streamlit**, allo
 
 ### 1. Clone or Download the Repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/Indranil1105/YouTube-Video-Summarizer-and-Analyzer-Using-NLP.git](https://github.com/Indranil1105/YouTube-Video-Summarizer-and-Analyzer-Using-NLP.git)
 cd your-repo-name
 
 ### 2. Install Dependencies
